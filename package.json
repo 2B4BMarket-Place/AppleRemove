@@ -1,0 +1,13 @@
+{
+  "name": "icloud-find-my-remover",
+  "version": "1.0.0",
+  "description": "iCloud Find My Device Lost Mode Removal Tool",
+  "main": "index.html",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "vercel": "^32.0.0"
+  }
+}
